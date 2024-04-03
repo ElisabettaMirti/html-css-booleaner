@@ -1,3 +1,6 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 .logo{
     height: 150px;
     background-color: rgb(52, 166, 227);
@@ -11,4 +14,34 @@
     padding-top: 100px;
     padding-bottom: 15px;
     padding-left: 15px;
+}
+
+#main-title{
+    font-size: 45px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.author{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: larger;    
+    color: grey;
+}
+
+.author-name{
+    color: rgb(46, 193, 181);
+}
+
+.date{
+    color: grey;
+    font-size: smaller;
+}
+
+.main-pic{
+    margin-top: 20px;
+}
+
+.pic-credits{
+    font-size: x-small;
 }
