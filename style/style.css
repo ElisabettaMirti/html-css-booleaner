@@ -64,3 +64,26 @@ thead{
     background-color: rgb(142, 214, 243);
 }
 
+footer{
+    margin-top: 40px;
+    color: grey;    
+}
+
+.img-advise{
+    font-weight: 600;
+    font-size: large;
+    color: whitesmoke;
+    position: relative;
+}
+
+.ad-img{
+    height: 200px;
+    width: 250px;
+}
+
+
+.ad-title{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+}
