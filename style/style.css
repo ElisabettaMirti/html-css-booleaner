@@ -45,3 +45,22 @@ body{
 .pic-credits{
     font-size: x-small;
 }
+
+table {
+    border-collapse: collapse; 
+    border-spacing: 0;}
+
+.small-col{
+    width: 20%;
+}
+
+thead{
+    text-align: left;
+    color: whitesmoke;
+    background-color: rgb(52, 166, 227);
+}
+
+.dark-row{
+    background-color: rgb(142, 214, 243);
+}
+
